@@ -1,2 +1,2 @@
 # N-BaIoT_Detection_Amended_Code_by_priscilla100
-This code has been sourced primarily from the GitHub user 'priscilla100.'
+This code, primarily derived from the GitHub user 'priscilla100,' corresponds to the research article titled 'N-BaIoT: Network-based Detection of IoT Botnet Attacks Using Deep Autoencoders.' While utilizing the provided dataset from https://archive.ics.uci.edu/ml/machine-learning-databases, I have made amendments and enhancements to the original code for improved functionality and customization.
